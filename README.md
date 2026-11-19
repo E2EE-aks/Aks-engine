@@ -1,5 +1,3 @@
-# ADM Lite Redesign
-
-UI redesign mockup (4 screens): Downloads, Add download, Browser, Settings.
-
-Open `index.html` in a browser. Styles are in `style.css`.
+# ADM Lite (redesign)
+Jetpack Compose download manager: downloads list, add link, pause/resume, queue, built-in browser with video/audio detection, settings.
+Build: push to GitHub, open Actions > "Build APK" > download the `ADMLite-debug-apk` artifact.
